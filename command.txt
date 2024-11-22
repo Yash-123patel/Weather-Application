@@ -1,0 +1,8 @@
+for intalling tsconfig.json
+--------------------------------
+        tsc --init
+
+
+for installing pacakge. json
+---------------------------------
+         npm init -y
